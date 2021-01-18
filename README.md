@@ -4,10 +4,6 @@ Automatisation For lim Acccount Creator
 ## For Who :
 *All person that used Lim Service 
 
-## Impact 
-
-Most People 
-
 ## Installation 
 
 To run this project, install it locally using npm:
