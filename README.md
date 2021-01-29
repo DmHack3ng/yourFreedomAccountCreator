@@ -11,5 +11,5 @@ To run this project, install it locally using npm:
 ```
 $ git clone https://github.com/DmHack3ng/limCreator.git
 $ cd limCreator
-$ python2 limVreator.py
+$ python2 limCreator.py
 ```
