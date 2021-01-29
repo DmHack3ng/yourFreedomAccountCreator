@@ -6,7 +6,7 @@ Automatisation For lim Acccount Creator
 
 ## Installation 
 
-To run this project, install it locally using npm:
+To run this project, install it locally using command:
 
 ```
 $ git clone https://github.com/DmHack3ng/limCreator.git
